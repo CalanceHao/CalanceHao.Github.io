@@ -172,16 +172,16 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
+  ComputerScience:
     output: true
     permalink: /:collection/:path/
-  publications:
+  Life:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  Knowledge:
     output: true
     permalink: /:collection/:path/
-  talks:
+  CaseShow:
     output: true
     permalink: /:collection/:path/
 
