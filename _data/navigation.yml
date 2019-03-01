@@ -12,9 +12,9 @@ main:
   - title: "📝Blog Posts"
      url: /year-archive/
     
-  - title: "👩🏻‍💻Portfolio"
+  - title: "💼Portfolio"
     url: /portfolio/
     
-  - title: "💼CV"
+  - title: "📜CV"
     url: /cv/
 
