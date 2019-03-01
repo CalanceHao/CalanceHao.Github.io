@@ -1,17 +1,20 @@
 # main links links
 main:
   - title: "💻ComputerScience"
-    url: /ComputerScience
+    url: /cs/
 
   - title: "🍀Life"
-    url: /Life
+    url: /life/
 
   - title: "📖Knowledge"
-    url: /Knowledge
+    url: /knowledge/
+
+  - title: "📝Blog Posts"
+     url: /year-archive/
     
-  - title: "CaseShow"
-    url: /CaseShow
+  - title: "👩🏻‍💻Portfolio"
+    url: /portfolio/
     
   - title: "💼CV"
-    url: /cv
+    url: /cv/
 

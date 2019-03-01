@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "郝韵萱|CalanceHao"
+title                    : "郝韵萱"
 title_separator          : "-"
-name                     : &name "郝韵萱|CalanceHao"
-description              : &description "a programmer with spirit of fun and thoughtfulness"
+name                     : &name "CalanceHao"
+description              : &description "Java Programmer"
 url                      : https://CalanceHao.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "CalanceHao.github.io"
@@ -80,10 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "CalanceHao"
+  name             : "郝韵萱"
   avatar           : "AllIsVanity.jpg"
-  bio              : "a programmer with spirit of fun and thoughtfulness"
-  location         : "Guangzhou,China"
+  bio              : "现实的理想主义者·迭代更新中"
+  location         : "广州，中国"
   employer         :
   # googlescholar    : "http://yourfullgooglescholarurl.com"
   email            : CalanceHao@gmail.com
@@ -181,7 +181,7 @@ collections:
   Knowledge:
     output: true
     permalink: /:collection/:path/
-  CaseShow:
+  Portfolio:
     output: true
     permalink: /:collection/:path/
 
