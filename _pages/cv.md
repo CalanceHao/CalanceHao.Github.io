@@ -9,32 +9,76 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in Computer Science, Shanghai University, 2015
-
-Work experience
-======
-* 2015.9-2017.6: Java Developer @[PCCW Solution](https://www.linkedin.com/company/pccw-solutions-limited-official-company-page/)
-
-
-  * 
-  * Duties included: 
-  * Supervisor: [Joe Li](https://www.linkedin.com/in/joe-li-99a22a117/)
-
-* 2015.6-8: DBA @[]()
-
-* 2014.7-9: Java Developer @[SHANGHAI IDEAL INFORMATION INDUSTRY(GROUP)CO.,LTD](https://www.linkedin.com/company/上海理想信息产业-集团-有限公司/about/) 
-  * Data Mining: Optimize the arrears' notification flow
-  * Duties included: Maintain OA, Test, KPI statistics.
-
-Project Experience
-=====
-
   
-Skills
+工作经历
 ======
+* 2015.9-2017.6: Java开发工程师 @[PCCW Solution](https://www.linkedin.com/company/pccw-solutions-limited-official-company-page/)
 
-  
-Service and leadership
+  * 2016.12-2017.06：特百惠电子商城
+	 - 项目概况：
+	 	- 开发规模：7人 [项目经理：Joe Li](https://www.linkedin.com/in/joe-li-99a22a117/)
+	 	- 软件功能：让分销商更方便快捷的拿货
+	 	- 面向人员：财务部人员，分销商/客户
+		- 技术架构：基于SAP的Hybris产品基础上满足客户定制化的需求
+	 - 任务：
+	 	- 参与财务模块，完成折扣差流水、充值流水、会计分录
+
+  * 2016.10-2016.12：北控水务风控系统
+  	 - 项目概况：
+	 	- 开发规模：7人 
+	 	- 软件功能：使风控中心方便审核项目控制风险
+	 	- 面向人员：风控部各级人员
+		- 技术架构：采用的是业界最新且比较主流的技术架构和技术（BootStrap + MongoDB + Activity）
+			1） 采用Bootstrap全新的页面设计风格；
+			2） 文档型数据库MongoDB和关系型数据库Oracle的联合事务处理；
+			3） 采用Restful微服务实现前后端分离；
+			4） 使用Maven做 jar包管理工具
+	 - 任务：负责审批文件生成下载的模块，参与与合同系统的对接
+	 - 为完成任务所做的工作：
+	 	- 使用POI+word书签功能，生成word文档
+
+  * 2016.09-2016.10：HR Portal-eCheckin
+  	 - 项目概况：HR Portal是PCCW的内部流程系统，使用了GWT。
+	 - 任务：维护eCheckin模块
+	 		这一模块的主要功能是完成招新工作：发布新职位，收集信息，筛选，发通知，入职...修改新调整和bug
+
+  * 2015.09-2016.09：EdIS 香港教育局信息管理系统-校管系统
+  	 - 项目概况：
+  	 	- 项目规模：300人
+		- 软件功能：教育局可以在此发布新学年计划，也在此收集学校情况
+		- 面向人员：教育局，学校
+		- 技术架构：
+			- 主要通过页面模块进行操作，后台通过batchjob模块定时生成各种report和文档。
+			- 项目主要使用 JSF，JSP，使用SSH框架，放在was服务器上。
+			- 使用JasperReport和POI来生成文件。
+	 - 任务：
+
+* 2015.6-8: DBA @[上海合印包装服务有限公司](https://www.linkedin.com/company/上海合印网络科技有限公司/about/)
+	- 项目概况：合印ERP系统，用于「客户-内部设计-供应商接单-整合发货」流程的电子化，有网页版和移动客户端。数据库使用的是MySQL5.5。
+	- 任务：
+		- 收集需求，推动系统的交付
+		- 培训内部员工和供应商对系统的使用
+		- 协助迁移维护数据库
+	- 为完成任务所做的工作：
+		- 深入了解印刷完成的流程，了解业务的实际需求和使用场景，根据自己的专业优势整理成需求，与领导确认核心需求，并与外包公司对接，推动核心功能按期交付。
+		- 深入使用系统，假设好各种场景并截图，向内部员工和供应商展示能从新流程得到的方便之处。
+		- 为数据库的迁移查找资料，准备数据，展示风险和优劣帮助领导决策
+
+* 2014.7-9: Java开发(实习) @[上海理想信息产业有限公司](https://www.linkedin.com/company/上海理想信息产业-集团-有限公司/about/) 
+  - 测试新功能：手工测试，截图
+  - 数据挖掘分析 催欠流程的优化
+	- 当时的场景：    
+		- 外部：预付费用户欠款情况需要改善，要求给出方案    
+		- 自我：此前从未使用过相关技术
+	- 需要完成的任务：与负责这个流程的员工一同完成，限期一周
+	- 采取的行动：
+		1. 马上查找学习数据挖掘技术，选定Weka来完成任务。
+		2. 对照数据分类结果和实际业务，与同事讨论，得出数据&结论。
+		3. 做成PPT展示
+	- 最终的结果：领导认可了方案，实际款项回收情况有改善。
+	- 自身的感受：自信 相信任何问题都是可以被解决的
+
+教育经历
 ======
+* 2011-2015 上海大学 计算机科学与技术 工学学士
+
